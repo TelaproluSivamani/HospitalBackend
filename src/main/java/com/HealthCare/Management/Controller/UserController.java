@@ -3,7 +3,7 @@ package com.HealthCare.Management.Controller;
 import com.HealthCare.Management.Entity.User;
 import com.HealthCare.Management.Service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;.
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Optional;
